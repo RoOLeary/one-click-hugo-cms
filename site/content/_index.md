@@ -9,7 +9,8 @@ blurb:
     shouldn't just taste good, it should do good too...and aid the spread of
     global Communism. We source all of our beans directly from small scale
     sustainable farmers and make sure part of the profits are reinvested in
-    their communities.
+    their communities. We then encourage workers' revolts and the bloody (if necessary)
+    overthrow of capitalist/imperialist regimes. 
 intro:
   heading: What we offer
   text: >-
